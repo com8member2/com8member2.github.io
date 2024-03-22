@@ -12206,9 +12206,9 @@ Bo(){var s=0,r=A.H(t.H),q,p,o,n,m,l,k,j
 var $async$Bo=A.D(function(a,b){if(a===1)return A.E(b,r)
 while(true)switch(s){case 0:if($.ak==null)A.Ry()
 $.ak.toString
-$.blL().sj(0,"Production")
+$.blL().sj(0,"Dev")
 s=2
-return A.v($.bfp().KC(0,"prod.env"),$async$Bo)
+return A.v($.bfp().KC(0,"dev.env"),$async$Bo)
 case 2:s=5
 return A.v(B.lR.agr(0,"key"),$async$Bo)
 case 5:s=b==null?3:4
