@@ -13011,9 +13011,9 @@ Cg(){var s=0,r=A.C(t.H),q,p,o,n,m,l,k,j
 var $async$Cg=A.y(function(a,b){if(a===1)return A.z(b,r)
 while(true)switch(s){case 0:if($.as==null)A.SE()
 $.as.toString
-$.buN().sj(0,"Production")
+$.buN().sj(0,"Dev")
 s=2
-return A.t($.boh().KV(0,"prod.env"),$async$Cg)
+return A.t($.boh().KV(0,"dev.env"),$async$Cg)
 case 2:s=5
 return A.t(B.mi.agU(0,"key"),$async$Cg)
 case 5:s=b==null?3:4
